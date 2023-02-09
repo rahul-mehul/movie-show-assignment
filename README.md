@@ -4,12 +4,15 @@ This react project is using Fetch API and two special hooks useState and useEffe
 and some css and bootstrap.</h1>
 
 first of all in project i made three components 
-  
+  <ul>
+  <li>
    . first component name Navbar is looklike my ui is better <br/>
+   </li>
    . second component name Movie all are implementation in this component 
      first i think fetch data api key then promise chaining .and useing  state management 
      useState Hooks and rendring my ui data , in searching opertion filter method and map method  with ternary operator.. <br/>
    . third component Card in all data with props .
+   </ul>
 
 Githul link - https://github.com/rahul-mehul/movie-show-assignment<br/>
 Hosted link - https://kumar-movielist.netlify.app/
