@@ -1,7 +1,17 @@
+Getting Started with Create React App
 
+This react project is using Fetch API and two special hooks useState and useEffect
+and some css and bootstrap.
 
+first ofall in project i made three components 
+   . first component name Navbar is looklike my ui is better .
+   . second component name Movie all are implementation in this component 
+     first i think fetch data api key then promise chaining .and useing  state management 
+     useState Hooks and rendring my ui data , in searching opertion filter method and map method  with ternary operator 
+   . third component Card in all data with props .
 
-
+Githul link - https://github.com/rahul-mehul/movie-show-assignment
+Hosted link - https://kumar-movielist.netlify.app/
 
 
 
