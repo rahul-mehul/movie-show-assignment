@@ -1,0 +1,33 @@
+ .movies {
+   display: flex;
+   justify-content: space-evenly;
+   text-align: center;
+   flex-wrap: wrap;
+
+ }
+
+ .center {
+   display: flex;
+   justify-content: center;
+   /* text-align: center; */
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 20px 0 10px 0;
+   color: rgb(59, 54, 54);
+   /* margin-left: 200px; */
+ }
+
+ .center>h5 {
+   padding: 0 10px;
+ }
+
+ .center>input {
+   border: none;
+   outline: none;
+   border-bottom: 1px solid;
+   cursor: pointer;
+ }
+
+ .card {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
